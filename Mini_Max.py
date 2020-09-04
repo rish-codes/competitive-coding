@@ -1,4 +1,4 @@
-#
+#Mini-Max Sum problem from HackerRank - https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 #!/bin/python3
 
